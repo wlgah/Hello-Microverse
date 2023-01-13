@@ -12,7 +12,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse Project] <a name="about-project"></a>
+# 📖 Hello Microverse Project <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
